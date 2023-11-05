@@ -1,130 +1,204 @@
-# .NET 6 - Supported OS versions
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="preload" href="/assets/sky77.gif" as="image">
+  <link rel="preload" href="/assets/background.webp" as="image">
+  <link rel="preload" href="/assets/sky77-gameonline.jpg" as="image">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+  <link rel="canonical" href="https://riptotoplaygame.online/">
+  <link rel="alternate" href="https://riptotoplaygame.online/" hreflang="id" />
+  <meta name="robots" content="index, follow" />
+  <meta name="page-locale" content="id,en" />
+  <meta content="indonesian" name="language">
+  <title>RIPTOTO PLAY GAME FOR PALESTINA</title>
+  <meta name="title" content="RIPTOTO PLAY GAME FOR PALESTINA">
+  <meta name="description" content="RIPTOTO Situs Terbaik Dengan Easy Big Win Dengan Return To Player Yang Tinggi, Seventh Heaven's Big Win with Sky77 Gacor Everyday">
+  <meta name="keywords" content="riptoto, riptoto online, riptoto slot gacor, rip toto slot ,riptoto slot gacor hari ini, riptoto situs slot, riptoto judi slot, riptoto slot gacor, rip toto, riptoto, daftar riptoto, login riptoto">
 
-[.NET 6](README.md) is an [Long Term Support (LTS)](../../release-policies.md) release and [is supported](../../microsoft-support.md) on multiple operating systems per their lifecycle policy.
+  <!-- META OG -->
+  <meta name="og:title" content="RIPTOTO PLAY GAME FOR PALESTINA" />
+  <meta name="og:description" content="Situs Judi Slot Gacor Online Gampang Maxwin Terbaru Hari Ini" />
+  <meta property="og:image:width" content="600" />
+  <meta property="og:image:height" content="466" />
+  <meta name="og:url" content="https://riptotoplaygame.online/">
+  <meta name="og:site_name" content="Riptoto" />
+  <meta name="og:locale" content="ID_id" />
+  <meta name="og:type" content="website" />
+  <meta name="categories" content="game online, permainan online, riptoto, slot" />
+  <meta name="rating" content="general" />
+  <meta name="copyright" content="Riptoto" />
+  <meta name="author" content="Riptoto" />
+  <meta name="distribution" content="global" />
+  <meta name="publisher" content="Riptoto" />
+  <meta name="geo.country" content="ID" />
+  <meta name="tgn.nation" content="Indonesia" />
+  <meta name="googlebot" content="index,follow" />
+  <meta name="Googlebot-Image" content="follow, all" />
+  <meta name="Scooter" content="follow, all" />
+  <meta name="msnbot" content="follow, all" />
+  <meta name="alexabot" content="follow, all" />
+  <meta name="Slurp" content="follow, all" />
+  <meta name="ZyBorg" content="follow, all" />
+  <meta name="yahoobot" content="follow, all" />
+  <meta name="bingbot" content="follow, all" />
+  <meta name="MSSmartTagsPreventParsing" content="true" />
+  <meta name="audience" content="all" />
+  <meta name="geo.region" content="ID-JK" />
+  <meta name="geo.placename" content="Indonesia" />
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.png" />
+  <!-- Script-->
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+  <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" crossorigin="anonymous"></script>
+  <style amp-custom>
+*{box-sizing:border-box;margin:0;padding:0}:focus{outline:0}::-webkit-scrollbar{display:none}a,a:after,a:hover,a:visited{text-decoration:none;color:#292d33}body{background:#111;color:#eee;font-family:sans-serif}.tc{text-align:center}.tj{text-align:justify}.m-auto{margin:auto}.my-3{margin-top:3rem;margin-bottom:3rem}nav{display:flex;flex-direction:row;width:100%;background:#212121cc;position:fixed;padding:.5rem;backdrop-filter:blur(3px);z-index:10}#sidebar{background:#212121cc;backdrop-filter:blur(3px)}.sidemenu ul{list-style:none}.sidemenu ul li{padding:1rem 2rem;background:#222;margin-bottom:3px}.sidemenu li.log{background-image:radial-gradient(circle farthest-corner at 10% 20%,rgb(0 253 255) 0%,rgb(26 11 2) 90%)}.sidemenu li.log a{color:#111}.sidemenu li.reg{background:linear-gradient(25deg,#ebff00,#088b8b 50%)}.close-sidebar span{position:absolute;left:32px;width:32px;height:3px;background:red}.close-sidebar span:nth-child(1){transform:rotate(45deg)}.close-sidebar span:nth-child(2){transform:rotate(-45deg)}button.close-sidebar{background:transparent;border:0;width:100%;padding:3rem}nav .container{display:flex}.container{width:100%;padding-left:15px;padding-right:15px;margin-left:auto;margin-right:auto}.row{display:flex;flex-wrap:wrap}.d-block{display:block}h1,h2,h3,h4,p{margin-bottom:1.38rem}.bg-dark{background:#222}.menu,.menu-mobile{display:flex;justify-content:flex-end;flex-basis:100%;align-items:center}.menu ul{display:flex;list-style:none;margin-right:2rem}.menu ul li a{padding:.5rem 1rem}
+.menu .btn,.hrbtn .btn2{padding:1rem 2.5rem;background-color:#00d5f9;border-radius:5px;color:#111;font-weight:700}nav::before{content:'';height:1px;width:100%;position:absolute;background:linear-gradient(to right,#ffffff88,#12bae7,#beff00);top:0}nav::after{content:'';height:2px;width:100%;position:absolute;background:linear-gradient(to right,#beff00,#12bae7,#ffffff88);bottom:0}.hero{background:url(/assets/background.webp)no-repeat center;background-size:cover;min-height:100vh;display:flex;align-items:center;text-align:center}.hero .container{padding-top:5rem}.imghero{box-shadow:inset 0 0 0 8px #888;border-radius:8px}.hrinfo{align-self:center}p.hrbrand{font-size:3rem}p.hrbrand,p.hrjg{margin:0}p.hrjg{font-size:1.8rem}span.b1{color:#00d5f9}span.b2{color:#f9ff00}.hrbtn{padding:3rem 0}.hrbtn a{margin:0 .38rem}.hrbtn .btn1{padding:1rem 2.5rem;background-color:#f9ff00;border-radius:5px;font-weight:700}.about::before{content:'';height:3px;width:100%;position:absolute;background:linear-gradient(to right,#0f0c29,#4d44d1,#24243e)}.about .row{padding:5rem 0;display:block}.cta{padding:3rem;background-image:radial-gradient(circle farthest-corner at 10.2% 55.8%,rgba(252,37,103,1) 0%,rgba(250,38,151,1) 46.2%,rgba(186,8,181,1) 90.1%)}.cta .btn{letter-spacing:2px;box-shadow:0 0 8px 1px rgba(0,0,0,0.2);margin:.25rem;padding:1rem 3rem;background-image:radial-gradient(circle farthest-corner at 10% 20%,rgba(90,92,106,1) 0%,rgba(32,45,58,1) 81.3%);flex:auto;text-align:center}h1,h2,h3,h4,p a,span.brand{color:#ffd700}
+.info{margin-bottom:3rem}.toc{padding:3rem 0}.toc-btn svg{vertical-align:middle}.toc #toc{margin:3rem}#toc li{line-height:1.8rem}.info ul{padding:revert}p.tj{line-height:1.38}.table-responsive{min-height:.01%;overflow-x:auto;margin:1rem 0}.table{width:100%;border-collapse:collapse;border-spacing:0}.table td,.table th{background-color:#F3F5EF;border:1px solid #bbb;color:#333;padding:8px}.table tr:nth-child(even) td{background-color:#F0F0E5}.table th{background-color:#EAE2CF;color:#333;font-size:110%}.table tr.even:hover td,.table tr:hover td{color:#222;background-color:#FFFBEF}.tg-bf{font-weight:700}.tg-it{font-style:italic}.tg-left{text-align:left}.tg-right{text-align:right}.tg-center{text-align:center}.mpacc h4{background:#111;border:none;padding:.5rem 0}footer{text-align:center;padding:3rem 0}.menu-mobile button{background:transparent;font-size:2rem;border:none;color:#eee}@media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar}.table-responsive>.table{margin-bottom:0}}@media (max-width: 767.98px){.hero .row{gap:3rem}.menu{display:none}.col-lg-6{flex:0 0 100%;max-width:100%}}@media (min-width: 768px){.container{max-width:720px}.menu-mobile{display:none}.col-lg-6{flex:0 0 50%;max-width:50%}}@media (min-width: 992px){.container{max-width:960px}.col-lg-6{flex:0 0 50%;max-width:50%}}@media (min-width: 1200px){.container{max-width:1140px}}
+</style>
+  <!-- Schema Script -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://riptotoplaygame.online/"
+      },
+      "headline": "RIPTOTO PLAY GAME FOR PALESTINA",
+      "image": [
+        "https://i.ibb.co/Np4pcPf/no-langit-no-maxwin.png"
+      ],
+      "datePublished": "2022-07-26T13:40:12+00:00",
+      "dateModified": "2022-09-07T14:57:17+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "Riptoto",
+        "url": "https://riptotoplaygame.online/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Riptoto",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://i.ibb.co/ggVjh1g/Yjh1DCh.gif"
+        }
+      }
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Game",
+      "name": "Sky77",
+      "author": {
+        "@type": "Person",
+        "name": "LANGIT77"
+      },
+      "headline": "SKY77 $$ Situs Gacor Easy Big Win Jackpot Sensasional",
+      "description": "SKY777 Situs Terbaik Dengan Easy Big Win Dengan Return To Player Yang Tinggi, Seventh Heaven's Big Win with Sky77 Gacor Everyday",
+      "keywords": ["slot sky77, sky77 slot online, sky77 slot gacor, sky77 situs slot gacor, sky77 slot gacor hari ini, sky77 situs slot, sky77 judi slot, sky77 judi slot gacor, sky77, Sky 77, daftar sky77, login sky77"],
+      "image": "/assets/sky77-gameonline.jpg",
+      "url": "https://www.lmcneeseministries.org/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "LANGIT77"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "97",
+        "bestRating": "100",
+        "worstRating": "0",
+        "ratingCount": "7829912"
+      },
+      "inLanguage": "id-ID"
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://riptotoplaygame.online/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Riptoto",
+          "item": "https://riptotoplaygame.online/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "RIPTOTO PLAY GAME FOR PALESTINA"
+        }
+      ]
+    }
+  </script>
+  <link rel="icon" type="image/x-icon" href="https://i.ibb.co/C5g0Rc1/hp-riptoto.png">
+</head>
+<body>
 
-For issues with .NET on operating systems not listed here, please open a GitHub issue in the appropriate .NET repository or contact the OS maintainer community . See [.NET Repos](../../Documentation/core-repos.md) for the repository list.
+  <amp-sidebar id="sidebar" layout="nodisplay" side="right">
+    <div class=sidemenu>
+      <button on="tap:sidebar.close" class=close-sidebar>
+        <span></span>
+        <span></span>
+      </button>
 
-## Windows
+      <ul>
+        <li class=log><a href="https://riptoto999.net/index.html#/register?referralid=reffboris/" target="_blank" rel="noopener noreferrer"><strong>LOGIN</strong></a></li>
+        <li class=reg><a href="https://riptoto999.net/" target="_blank" rel="noopener noreferrer"><strong>DAFTAR</strong></a></li>
+      </ul>
+    </div>
+  </amp-sidebar>
 
-OS                                    | Version                 | Architectures   | Lifecycle
---------------------------------------|-------------------------|-----------------|----------
-[Windows Client][Windows-client]      | 7 SP1(**\***), 8.1      | x64, x86        | [Windows][Windows-lifecycle]
-[Windows 10 Client][Windows-client]   | Version 1607+           | x64, x86, Arm64 | [Windows][Windows-lifecycle]
-[Windows 11][Windows-client]   | Version 22000+           | x64, x86, Arm64 | [Windows][Windows-lifecycle]
-[Windows Server][Windows-Server]      | 2012+                | x64, x86        | [Windows Server][Windows-Server-lifecycle]
-[Windows Server Core][Windows-Server] | 2012+                | x64, x86        | [Windows Server][Windows-Server-lifecycle]
-[Nano Server][Nano-Server]            | Version 1809+           | x64             | [Windows Server][Windows-Server-lifecycle]
+  <header>
+    <nav>
+      <div class=container>
+        <div class=brand>
+          <amp-img height=50 width=100 alt="Slot Online" src="https://i.ibb.co/C5g0Rc1/hp-riptoto.png"></amp-img>
+        </div>
+        <div class=menu>
 
-**\*** Windows 7 SP1 is supported with [Extended Security Updates](https://learn.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-extended-security-updates-faq) installed.
+          <a href="https://serbubet.pro" class=btn target="_blank" rel="noopener noreferrer">LOGIN</a>
+        </div>
+        <div class=menu-mobile><button on="tap:sidebar.toggle">☰</button></div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div class=hero>
+      <div class=container>
+        <div class=row>
+          <div class="col-lg-6 col-md-12">
+            <amp-img class=imghero height=200 width=300 alt="riptoto" src="https://i.ibb.co/C5g0Rc1/hp-riptoto.png"></amp-img>
+          </div>
+          <div class="col-lg-6 col-md-12 hrinfo">
+            <p class=hrbrand><span class=b1>❣RIP</span><span class=b2>TOTO</span></p>
+            <p class=hrbrand><span class=b1>PLAY</span><span class=b2>GAMES❣</span></p>
+            <p class=hrjg><span class=b2>❣FOR</span> <span class=b1>PALESTINA❣</span></p>
+            <div class=hrbtn>
+              <a href="https://riptoto999.net/index.html#/register?referralid=reffboris" class=btn1 target="_blank" rel="noopener noreferrer nofollow">DAFTAR</a>
+              <a href="https://riptoto999.net" class=btn2 target="_blank" rel="noopener noreferrer nofollow">LOGIN</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-[Windows-client]: https://www.microsoft.com/windows/
-[Windows-lifecycle]: https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet
-[win-client-docker]: https://hub.docker.com/_/microsoft-windows
-[Windows-Server-lifecycle]: https://learn.microsoft.com/windows-server/get-started/windows-server-release-info
-[Nano-Server]: https://learn.microsoft.com/windows-server/get-started/getting-started-with-nano-server
-[Windows-Server]: https://learn.microsoft.com/windows-server/
 
-.NET 6 is supported in the x64 emulator on Windows 11 Arm64.
+    </section>
 
-## Linux
+  </main>
 
-OS                                    | Version               | Architectures     | Lifecycle
---------------------------------------|-----------------------|-------------------|----------
-[Alpine Linux][Alpine]                | 3.13+                 | x64, Arm64, Arm32 | [Alpine][Alpine-lifecycle]
-[CentOS Linux][CentOS]                | 7                     | x64               | [CentOS][CentOS-lifecycle]
-[CentOS Stream Linux][CentOS]         | 8                     | x64               | [CentOS][CentOS-lifecycle]
-[Debian][Debian]                      | 10+                   | x64, Arm64, Arm32 | [Debian][Debian-lifecycle]
-[Fedora][Fedora]                      | 36+                   | x64               | [Fedora][Fedora-lifecycle]
-[openSUSE][OpenSUSE]                  | 15+                   | x64               | [OpenSUSE][OpenSUSE-lifecycle]
-[Oracle Linux][Oracle-Linux]          | 7+                    | x64               | [Oracle][Oracle-lifecycle]
-[Red Hat Enterprise Linux][RHEL]      | 7+                    | x64, Arm64        | [Red Hat][RHEL-lifecycle]
-[SUSE Enterprise Linux (SLES)][SLES]  | 12 SP5+               | x64               | [SUSE][SLES-lifecycle]
-[Ubuntu][Ubuntu]                      | 16.04, 18.04, 20.04+  | x64, Arm64, Arm32 | [Ubuntu][Ubuntu-lifecycle]
 
-Other distributions are supported at best effort, per [.NET Support and Compatibility for Linux Distributions](../../linux-support.md).
-
-### Libc compatibility
-
-- x64: [glibc][glibc] 2.17 (from CentOS 7)
-- Arm32, Arm64: [glibc][glibc] 2.23 (from Ubuntu 16.04)
-- Alpine (x64 and Arm64): [musl][musl] 1.2.2 (from Alpine 3.13)
-
-[Alpine]: https://alpinelinux.org/
-[Alpine-lifecycle]: https://alpinelinux.org/releases/
-[CentOS]: https://www.centos.org/
-[CentOS-lifecycle]:https://wiki.centos.org/FAQ/General
-[CentOS-docker]: https://hub.docker.com/_/centos
-[CentOS-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-centos8
-[Debian]: https://www.debian.org/
-[Debian-lifecycle]: https://wiki.debian.org/DebianReleases
-[Debian-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-debian10
-[Fedora]: https://getfedora.org/
-[Fedora-lifecycle]: https://fedoraproject.org/wiki/End_of_life
-[Fedora-docker]: https://hub.docker.com/_/fedora
-[Fedora-msft-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-fedora32
-[Fedora-pm]: https://fedoraproject.org/wiki/DotNet
-[OpenSUSE]: https://opensuse.org/
-[OpenSUSE-lifecycle]: https://en.opensuse.org/Lifetime
-[OpenSUSE-docker]: https://hub.docker.com/r/opensuse/leap
-[OpenSUSE-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-opensuse15
-[Oracle-Linux]: https://www.oracle.com/linux/
-[Oracle-Lifecycle]: https://www.oracle.com/a/ocom/docs/elsp-lifetime-069338.pdf
-[RHEL]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
-[RHEL-lifecycle]: https://access.redhat.com/support/policy/updates/errata/
-[RHEL-msft-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-rhel8
-[RHEL-pm]: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/developing_.net_applications_in_rhel_8/using-net-core-on-rhel_gsg#installing-net-core_gsg
-[SLES]: https://www.suse.com/products/server/
-[SLES-lifecycle]: https://www.suse.com/lifecycle/
-[SLES-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-sles15
-[Ubuntu]: https://ubuntu.com/
-[Ubuntu-lifecycle]: https://wiki.ubuntu.com/Releases
-[Ubuntu-pm]: https://learn.microsoft.com/dotnet/core/install/linux-package-manager-ubuntu-2004
-[glibc]: https://www.gnu.org/software/libc/
-[musl]: https://musl.libc.org/
-
-## macOS
-
-OS                            | Version                   | Architectures     |
-------------------------------|---------------------------|-------------------|
-[macOS][macOS]                | 10.15+                    | x64, Arm64        |
-
-[macOS]: https://support.apple.com/macos
-
-.NET 6 is supported in the Rosetta 2 x64 emulator.
-
-## Android
-
-OS                            | Version                 | Architectures     |
-------------------------------|-------------------------|-------------------|
-[Android][Android]            | API 21+                 | x64, Arm32, Arm64 |
-
-[Android]: https://support.google.com/android
-
-## iOS / tvOS
-
-OS                            | Version                 | Architectures     |
-------------------------------|-------------------------|-------------------|
-[iOS][iOS]                    | 10.0+                   | x64, Arm32, Arm64 |
-
-[iOS]: https://support.apple.com/ios
-
-## QEMU
-
-.NET 6 is not supported being run (emulated) via [QEMU](https://www.qemu.org/). QEMU is used, for example, to emulate Arm64 containers on x64, and vice versa.
-
-## Support changes from .NET 5.0
-
-The following operating systems are no longer supported, starting with .NET 6.0.
-
-None yet.
-
-## Out of support OS versions
-
-Support for the following versions was ended by the distribution owners and are [no longer supported by .NET 6.0][OS-lifecycle-policy].
-
-- Alpine 3.12
-- macOS 10.13
-- SUSE Linux Enterprise Server 12 SP2, SP3, SP4
-- Fedora 35
-
-[OS-lifecycle-policy]: https://github.com/dotnet/core/blob/main/os-lifecycle-policy.md
+</body>
+</html>
